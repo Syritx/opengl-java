@@ -1,7 +1,9 @@
 package com.example.test;
 
-import android.opengl.*;
-import android.opengl.GLSurfaceView.Renderer;
+import android.opengl.GLES20;
+import android.opengl.GLSurfaceView;
+
+import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.opengles.GL10;
 
 
